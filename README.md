@@ -4,7 +4,7 @@ Stupid Hackathon #7 No_Sleep. This project will listen on your mic and if it sli
 ![Screenshot_20230625_132713](https://github.com/tackleza/TackleStupidHack7_No_Sleep/assets/3255203/92223203-7d4a-4c20-9928-ce18b3ac12d2)
 
 # Add more alert by yourself
-Add file into "resources" dir and edit this
+Add file into "resources" dir and edit **StupidHack7** class
 
 ~~~
 		this.resourcesVideo = new ArrayList<String>();
@@ -15,4 +15,4 @@ Add file into "resources" dir and edit this
 ~~~
 
 # Thanks shit7 (Stupid Hackathon 7)
-Really love this event. Hop to see you again in shit8 ❤
+Really love this event. Hope to see you again in shit8 ❤
